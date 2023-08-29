@@ -1,4 +1,4 @@
-![]([https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg](https://superwalls.top/uploads/posts/2022-03/1648693428_18-gamerwall-pro-p-analitika-fon-krasivie-19.jpg))
+![]([https://superwalls.top/uploads/posts/2022-03/1648693428_18-gamerwall-pro-p-analitika-fon-krasivie-19.jpg)])
 
 <div id="badges" align="center">
 
