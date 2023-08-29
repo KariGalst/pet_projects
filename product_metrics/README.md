@@ -17,7 +17,7 @@
 
 **Описание данных:**
 
-![image.png](attachment:image.png)
+![image.png](https://github.com/KariGalst/pet_projects/blob/main/product_metrics/image.png)
 
 **Дополнительные вопросы:** 
 
