@@ -17,8 +17,8 @@
 # Pet-проекты
 Название|Описание | Стек
 -----------|:-------:|:--------: 
-[Анализ авторынка Казахстана](https://github.com/KariGalst/pet_projects/blob/main/auto_market_kaz/auto_market_kaz.ipynb)| Датасет с "грязными" данными о продажах автомобилей на авторынке Казахстана. После очистки данных был проведен анализ рынка и конкретного дилера с целью дать рекомендации по дальнейшему развитию. | Pandas, seaborn, matplotlib, numpy
-[Анализ раковых заболеваний](https://github.com/QuantumFluxx/pet_projects/tree/main/Cancer_analysis)| Этот проект был направлен в основном на визуализацию данных. Были загружены и предобработаны данные. Визуализированы данные с 1990 по 2020 годы о том, какая смертность и от какого типа рака была в этом промежутке в мире. Также, отдельно была разобрана Россия. | Numpy, pandas, seaborn, matplotlib, plotly
+[Анализ авторынка Казахстана](https://github.com/KariGalst/pet_projects/blob/main/auto_market_kaz/auto_market_kaz.ipynb)| Датасет с "грязными" данными о продажах автомобилей на авторынке Казахстана. После очистки данных был проведен анализ рынка и конкретного дилера с целью дать рекомендации по дальнейшему развитию. | Pandas, numpy, seaborn, matplotlib
+[Монетизация в обучающем игровом приложении](https://github.com/KariGalst/pet_projects/blob/main/product_metrics/product_metrics.ipynb)| Анализ активности пользователей и основных продуктовых метрик обучающего игрового приложения. | Pandas, numpy, seaborn, matplotlib
 
 
 
