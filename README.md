@@ -30,11 +30,11 @@
 
     + аналитическая библиотека [Pandas](https://pandas.pydata.org/);
 
-    + библиотеки для выполнения научных и инженерных расчётов [NumPy](https://numpy.org/), [math](https://docs.python.org/3/library/math.html), [SciPy](https://scipy.org/);
+    + библиотеки для выполнения научных и инженерных расчётов [NumPy](https://numpy.org/), [Math](https://docs.python.org/3/library/math.html), [SciPy](https://scipy.org/);
 
-    + библиотеки для визуализации данных [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/python/);
+    + библиотеки для визуализации данных [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/);
 
-    + библиотека машинного обучения [sklearn](https://www.sklearn.org/);
+    + библиотека машинного обучения [Sklearn](https://www.sklearn.org/);
 
     + вспомогательные библиотеки [datetime](https://docs.python.org/3/library/datetime.html), [display](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [warnings](https://docs.python.org/3/library/warnings.html), [requests](https://pythonru.com/biblioteki/kratkoe-rukovodstvo-po-biblioteke-python-requests);
 
