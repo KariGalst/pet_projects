@@ -6,7 +6,7 @@
 
 **Задание:**
 
-![task.jpg](https://github.com/KariGalst/pet_projects/blob/main/product_metrics/task.jpg)
+![task.jpg](https://github.com/KariGalst/pet_projects/blob/main/test_sql/task.jpg)
 
 **Результаты выполнения запросов:** 
 
