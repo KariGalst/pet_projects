@@ -12,16 +12,16 @@
 
 **Запрос №1.** 
 
-![query_1.jpg](attachment:query_1.jpg)
+![query_1.jpg](https://github.com/KariGalst/pet_projects/blob/main/test_sql/query_1.jpg)
 
 **Запрос №2.** 
 
-![query_2.jpg](attachment:query_2.jpg)
+![query_2.jpg](https://github.com/KariGalst/pet_projects/blob/main/test_sql/query_2.jpg)
 
 **Запрос №3.** 
 
-![query_3.jpg](attachment:query_3.jpg)
+![query_3.jpg](https://github.com/KariGalst/pet_projects/blob/main/test_sql/query_3.jpg)
 
 **Запрос №4.** 
 
-![query_4.jpg](attachment:query_4.jpg)
+![query_4.jpg](https://github.com/KariGalst/pet_projects/blob/main/test_sql/query_4.jpg)
