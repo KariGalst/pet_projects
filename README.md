@@ -19,9 +19,9 @@
 # Pet-проекты
 Название|Описание | Стек
 -----------|:-------:|:--------: 
-[Анализ авторынка Казахстана](https://github.com/KariGalst/pet_projects/blob/main/auto_market_kaz/auto_market_kaz.ipynb)| Датасет с "грязными" данными о продажах автомобилей на авторынке Казахстана. После очистки данных был проведен анализ рынка и конкретного дилера с целью дать рекомендации по дальнейшему развитию. | Pandas, numpy, seaborn, matplotlib
-[Покупательская активность](https://github.com/KariGalst/pet_projects/blob/main/test_sql/test_sql.sql)| Тестовое задание, SQL. Необходимо проанализировать покупательскую активность и востребованность товаров за разные периоды. | PostrgeSQL
-[Монетизация в обучающем игровом приложении](https://github.com/KariGalst/pet_projects/blob/main/product_metrics/product_metrics.ipynb)| Анализ активности пользователей и основных продуктовых метрик обучающего игрового приложения. | Pandas, numpy, seaborn, matplotlib
+[Анализ авторынка Казахстана](https://github.com/KariGalst/pet_projects/blob/main/Kazakhstan_car_market/auto_market_kaz.ipynb)| Датасет с "грязными" данными о продажах автомобилей на авторынке Казахстана. После очистки данных был проведен анализ рынка и конкретного дилера с целью дать рекомендации по дальнейшему развитию. | Pandas, numpy, seaborn, matplotlib
+[Покупательская активность](https://github.com/KariGalst/pet_projects/blob/main/SQL_test_task/test_sql.sql)| Тестовое задание, SQL. Необходимо проанализировать покупательскую активность и востребованность товаров за разные периоды. | PostrgeSQL
+[Монетизация в обучающем игровом приложении](https://github.com/KariGalst/pet_projects/blob/main/Product_metrics/product_metrics.ipynb)| Анализ активности пользователей и основных продуктовых метрик обучающего игрового приложения. | Pandas, numpy, seaborn, matplotlib
 
 
 
