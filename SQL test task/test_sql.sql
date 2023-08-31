@@ -125,6 +125,7 @@ ORDER BY item_revenue DESC
 LIMIT 1;
 
 -- Г) топ-3 товаров по выручке и их доля в общей выручке за любой год
+
 WITH
 profiles AS
 (
